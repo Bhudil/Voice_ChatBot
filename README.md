@@ -78,10 +78,7 @@ ollama serve
 
 ## 💻 Usage
 
-1. Start the application:
-```bash
-python final.py
-```
+1. Start the application: run the ipynb file. The interface opens directly
 
 2. Open your web browser and navigate to the URL shown in the terminal (typically http://localhost:7860)
 
